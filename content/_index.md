@@ -4,7 +4,7 @@ menu = "main"
 weight = 1
 +++
 
-{{< figure src="/images/molind.webp/" width="200" class="floatright"
+{{< figure src="/images/molind.jpg/" width="200" class="floatright"
 alt="Headshot of Douglas Molin">}}
 
 I am a PhD student at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/mv/) at the [University of

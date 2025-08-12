@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: http://localhost:32877/sitemap.xml
+Sitemap: https://douglasmolin.github.io/sitemap.xml
