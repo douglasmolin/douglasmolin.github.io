@@ -11,8 +11,10 @@ I am a PhD student at the [Department of Mathematical Sciences](https://www.chal
 Gothenburg](https://www.gu.se/en/) and [Chalmers
 University of Technology](https://www.chalmers.se/en/). 
 
+I am on the job market in Fall 2025.
+
 My research area is algebraic number theory and my supervisor is [Christian Johansson](https://www.math.chalmers.se/~chrjohv/).
 
 My institution web page is [here](https://www.chalmers.se/en/persons/molind/).
 
-`molind (at) chalmers (dot) se` 
+My e-mail address is: `molind (at) chalmers (dot) se` 
