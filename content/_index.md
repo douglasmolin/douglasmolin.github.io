@@ -17,4 +17,6 @@ My research area is algebraic number theory and my supervisor is [Christian Joha
 
 My institution web page is [here](https://www.chalmers.se/en/persons/molind/).
 
-My e-mail address is: `molind (at) chalmers (dot) se` 
+My e-mail address is: `molind (at) chalmers (dot) se`.
+
+[Here](/files/cv.pdf) is my CV.
