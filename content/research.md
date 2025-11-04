@@ -8,7 +8,7 @@ My research interests lie in algebraic number theory, particularly in the
 p-adic Langlands programme.
 
 ## Papers
--  On derived deformation rings in characteristic 0 and a conjecture of
-    Venkatesh. [[pdf](/files/ddrchar0.pdf)]
+- On derived deformation rings in characteristic 0 and a conjecture of
+    Venkatesh. *Preliminary draft.*  [[pdf](/files/ddrchar0.pdf)]
 - On patched completed homology and a conjecture of Venkatesh. [[arXiv](https://arxiv.org/abs/2407.04228)]
 
