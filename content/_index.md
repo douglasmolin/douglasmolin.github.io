@@ -4,14 +4,14 @@ menu = "main"
 weight = 1
 +++
 
-{{< figure src="/images/molind.jpg" width="200" class="floatright"
+{{< figure src="/images/portrait.jpg" width="200" class="floatright"
 alt="Headshot of Douglas Molin">}}
 
-I am a PhD student at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/mv/) at the [University of
-Gothenburg](https://www.gu.se/en/) and [Chalmers
-University of Technology](https://www.chalmers.se/en/). 
+Starting October 2026, I am a postdoctoral researcher at the University of Oxford, supported by a grant from the [Knut and Alice Wallenberg Foundation](https://kaw.wallenberg.org/en/douglas-molin).
 
-My research area is algebraic number theory and my supervisor is [Christian Johansson](https://www.math.chalmers.se/~chrjohv/).
+On the 5th of June 2025, I defended my PhD thesis *Selmer group actions on p-adic automorphic cohomology* at the University of Gothenburg and Chalmers University of Technology, where my supervisor was [Christian Johansson](https://www.math.chalmers.se/~chrjohv/).
+
+My research interests are in algebraic number theory and arithmetic geometry, particularly p-adic aspects of the Langlands programme. 
 
 My institution web page is [here](https://www.chalmers.se/en/persons/molind/).
 
