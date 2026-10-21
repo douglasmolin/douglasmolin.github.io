@@ -13,6 +13,4 @@ On the 5th of June 2025, I defended my PhD thesis *Selmer group actions on p-adi
 
 My research interests are in algebraic number theory and arithmetic geometry, particularly p-adic aspects of the Langlands programme. 
 
-My institution web page is [here](https://www.chalmers.se/en/persons/molind/).
-
 My e-mail address is: `molind (at) chalmers (dot) se`.

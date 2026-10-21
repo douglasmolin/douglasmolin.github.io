@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Douglas Molin</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Douglas Molin</description>
-    <generator>Hugo</generator>
-    <language>en-GB</language>
-    <copyright>Copyright © 2025, Douglas Molin.</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Research</title>
-      <link>http://localhost:1313/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
-      <description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;&#xA;&lt;p&gt;My research interests lie in algebraic number theory, particularly in the&#xA;p-adic Langlands programme.&lt;/p&gt;&#xA;&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;On derived deformation rings in characteristic 0 and a conjecture of&#xA;Venkatesh. [&lt;a href=&#34;http://localhost:1313/files/ddrchar0.pdf&#34;&gt;pdf&lt;/a&gt;]&lt;/li&gt;&#xA;&lt;li&gt;On patched completed homology and a conjecture of Venkatesh. [&lt;a href=&#34;https://arxiv.org/abs/2407.04228&#34;&gt;arXiv&lt;/a&gt;]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Home on Douglas Molin</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Home on Douglas Molin</description>
+		<generator>Hugo</generator>
+		<language>en-GB</language>
+		
+		
+		
+			<copyright>Copyright © 2025, Douglas Molin.</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Research</title>
+				<link>http://localhost:1313/research/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/</guid>
+				<description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;&#xA;&lt;p&gt;My research interests lie in algebraic number theory, particularly p-adic aspects of the Langlands programme.&lt;/p&gt;&#xA;&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;On derived deformation rings in characteristic 0 and a conjecture of&#xA;Venkatesh. &lt;em&gt;Preprint.&lt;/em&gt;  [&lt;a href=&#34;http://localhost:1313/files/ddrchar0.pdf&#34;&gt;pdf&lt;/a&gt;]&lt;/li&gt;&#xA;&lt;li&gt;On completed homology and a conjecture of Venkatesh. [&lt;a href=&#34;http://localhost:1313/files/chom.pdf&#34;&gt;v2:pdf&lt;/a&gt;], [&lt;a href=&#34;https://arxiv.org/abs/2407.04228&#34;&gt;v1:arXiv&lt;/a&gt;]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
 </rss>
