@@ -7,7 +7,7 @@ weight = 20
 My research interests lie in algebraic number theory, particularly p-adic aspects of the Langlands programme.
 
 ## Articles
-- On derived deformation rings in characteristic 0 and a conjecture of
+- On derived Galois deformation rings in characteristic 0 and a conjecture of
     Venkatesh. *Preprint.*  [[pdf](/files/ddrchar0.pdf)]
-- On completed homology and a conjecture of Venkatesh. *Submitted.* [[v2:pdf](/files/chom.pdf)], [[v1:arXiv](https://arxiv.org/abs/2407.04228)]
+- On completed homology and a conjecture of Venkatesh. *Submitted.* [[pdf](/files/chom.pdf)], [[arXiv](https://arxiv.org/abs/2407.04228)]
 
