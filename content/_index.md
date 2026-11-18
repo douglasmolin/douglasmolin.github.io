@@ -13,4 +13,4 @@ On the 5th of June 2026, I defended my PhD thesis *Selmer group actions on p-adi
 
 My research interests are in algebraic number theory and arithmetic geometry, particularly p-adic aspects of the Langlands programme. 
 
-My e-mail address is: `molind (at) chalmers (dot) se`.
+My e-mail address is: `douglas (dot) molin (at) maths (dot) ox (dot) ac (dot) uk`.
