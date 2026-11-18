@@ -7,7 +7,7 @@ weight = 1
 {{< figure src="/images/portrait.jpg" width="200" class="floatright"
 alt="Headshot of Douglas Molin">}}
 
-Starting October 2026, I am a postdoctoral academic visitor at the University of Oxford, supported by a grant from the [Knut and Alice Wallenberg Foundation](https://kaw.wallenberg.org/en/douglas-molin).
+I am a postdoctoral researcher at the University of Oxford, supported by a grant from the [Knut and Alice Wallenberg Foundation](https://kaw.wallenberg.org/en/douglas-molin). My departmental webpage is [here](https://https://www.maths.ox.ac.uk/people/douglas.molin).
 
 Previously, I was a PhD student at the University of Gothenburg and Chalmers University of Technology, where my supervisor was [Christian Johansson](https://www.math.chalmers.se/~chrjohv/).
 
